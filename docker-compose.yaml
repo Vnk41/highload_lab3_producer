@@ -1,0 +1,6 @@
+version: '2.0'
+services:
+  web2:
+    image: test
+    ports:
+      - "8082:8080"
